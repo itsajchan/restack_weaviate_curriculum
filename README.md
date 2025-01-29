@@ -17,6 +17,10 @@ Helpful Docs:
 - [Google Gen AI SDK](https://googleapis.github.io/python-genai/)
 - [Google Gen AI Docs](https://ai.google.dev/gemini-api/docs/sdks)
 
+```
+GEMINI_API_KEY=AIzaSyChmNsFCmTVMR_7j8JMugsv15Hw4k_jo-s
+```
+
 ## Start Restack
 
 To start the Restack, use the following Docker command:
